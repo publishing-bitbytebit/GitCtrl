@@ -1,7 +1,7 @@
-# Git Ctrl: Using Command Line, Git, and GitHub
+### Git Ctrl: Using Command Line, Git, and GitHub
 
-## Rebecca Parker  
-### [@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)
+Rebecca Parker  
+[@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)
 
 ---
 
