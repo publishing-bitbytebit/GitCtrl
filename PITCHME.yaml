@@ -10,7 +10,7 @@ theme-override : assets/css/PITCHME.css
 highlight : github-gist
 logo : assets/image/logo.png
 background : assets/image/binary-strings-white.jpg
-background-opacity : 10
-transition : none
+background-opacity : 8
+transition : convex
 published : true
-footnote : "GitPitch [ White Binary ] Presentation Template"
+footnote : "Rebecca Parker | Twitter: @bcpkr | https:bit.ly/GitCtrl"
