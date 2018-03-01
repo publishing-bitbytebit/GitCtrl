@@ -7,7 +7,7 @@ Rebecca Parker | Abdurrafey Khan
 ---?image=assets/image/octocat_Surprise.jpg&opacity=100
 
 @title[An Octocat gazes with surprise into an illuminated cardboard box marked 'github: SOCIAL CODING' on the side.]
----?image=assets/image/ManuscriptersionCtrl_comic.jpg&opacity=100
+---?image=assets/image/ManuscriptVersionCtrl_comic.jpg&opacity=100
 
 @title[XKCD Webcomic Strip]
 
