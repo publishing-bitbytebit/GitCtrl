@@ -4,8 +4,10 @@
 Rebecca Parker | Abdurrafey Khan  
 [@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)  
 
----
-![An Octocat gazes with surprise into an illuminated cardboard box marked "github: SOCIAL CODING" on the side.](https://github.com/RJP43/GitCtrl/blob/master/assets/image/octocat_Surprise.jpg)
+---?image=assets/image/octocat_Surprise.jpg&opacity=100
+
+@title[An Octocat gazes with surprise into an illuminated cardboard box marked "github: SOCIAL CODING" on the side.]
+
 ---
 ## Tips!
 
