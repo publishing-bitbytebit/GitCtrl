@@ -22,15 +22,16 @@ Rebecca Parker | Abdurrafey Khan
 
 ---
 
-## Template Features
+## What is Git?
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Software Downloaded Locally
+- Distributed Version Control System  
+  
+## What is GitHub?
 
+- Remote Storage of Git Repos
+- Social Network Access / Collaboration
+  
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
