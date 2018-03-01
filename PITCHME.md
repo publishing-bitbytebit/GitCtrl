@@ -5,7 +5,8 @@ Rebecca Parker | Abdurrafey Khan
 [@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)  
 
 ---
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+---
 ## Tips!
 
 <br>
