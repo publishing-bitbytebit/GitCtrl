@@ -7,6 +7,7 @@ Rebecca Parker | Abdurrafey Khan
 ---?image=assets/image/octocat_Surprise.jpg&opacity=100
 
 @title[An Octocat gazes with surprise into an illuminated cardboard box marked 'github: SOCIAL CODING' on the side.]
+
 ---?image=assets/image/ManuscriptVersionCtrl_comic.jpg&opacity=100
 
 @title[XKCD Webcomic Strip]
@@ -20,8 +21,11 @@ Rebecca Parker | Abdurrafey Khan
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
----
+---?image=assets/image/gitNOTgithub.png
 
+@title[Image representing Git _logo_ is not equal to OctoCat 'github: SOCIAL CODING' _logo_.]
+
+---
 ## What is Git?
 
 - Software Downloaded Locally
