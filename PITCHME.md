@@ -1,6 +1,7 @@
-# White Binary
+# Git Ctrl: Using Command Line, Git, and GitHub
 
-### A GitPitch Presentation Template
+## Rebecca Parker  
+### [@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)
 
 ---
 
