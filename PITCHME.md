@@ -1,8 +1,9 @@
 ## Git Ctrl:  
 ### Command Line, Git, and GitHub
 
-Rebecca Parker | Abdurrafey Khan  
-[@bcpkr396](https://twitter.com/bcpkr396) | [@AbdurKhanye](https://twitter.com/AbdurKhanye)  
+Rebecca Parker  
+[@bcpkr396](https://twitter.com/bcpkr396)  
+http://bit.ly/GitCtrl_Wksp  
 
 ---?image=assets/image/octocat_Surprise.jpg&opacity=80
 
