@@ -27,12 +27,11 @@ Rebecca Parker | Abdurrafey Khan
 
 ---
 ## What is Git?
-
 - Software Downloaded Locally
 - Distributed Version Control System  
   
+    
 ## What is GitHub?
-
 - Remote Storage of Git Repos
 - Social Network Access / Collaboration
   
