@@ -1,1 +1,3 @@
-# GitCtrl
+Just Breathe  
+and  
+GitCtrl  
