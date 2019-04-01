@@ -1,4 +1,4 @@
-_**Just Breathe and Git Ctrl**_  
+# _Just Breathe and Git Ctrl_  
   
 ![flower diagram with various humanities disciplines listed on each of the petals and marked Digital Humanities via a bracket around all of the petals, the stem of the flower has a lone leaf that reads Techtuality, and the roots are labeled with various textual studies specific displines and marked Textual Studies via a bracket around all of the roots](https://github.com/publishing-bitbytebit/MUDDLE/blob/master/PromotionalMaterials/Backyard/DHFlower/Literature.png "Publishing_BitByteBit Logo illustrated by @taylorcare")  
   
